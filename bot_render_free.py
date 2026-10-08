@@ -25,9 +25,9 @@ from openai import OpenAI
 # 🔐 تنظیمات
 # =========================================================
 
-BALE_TOKEN = os.getenv("BALE_TOKEN")
+BALE_TOKEN = os.getenv("660252688:Wb5YQtv2B6SoUZdZvd8xhm6G4f_UUuByEyE")
 
-GAPGPT_API_KEY = os.getenv("GAPGPT_API_KEY")
+GAPGPT_API_KEY = os.getenv("sk-hjxiBJpKACOXI4IStWGftlPr3ayYDm0TTfJBpcwi5jZGrYja")
 
 GAPGPT_BASE_URL = "https://api.gapgpt.app/v1"
 
